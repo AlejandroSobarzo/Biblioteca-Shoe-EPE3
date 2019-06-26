@@ -11,3 +11,6 @@ Proyecto dado por el Profesor German Riveros, consta de un programa de control d
 
 
 ![Bienvenida](https://user-images.githubusercontent.com/51242137/60144802-d7ea0100-9791-11e9-886d-71486544bf2d.PNG)
+
+
+![eliminar](https://user-images.githubusercontent.com/52224264/60145356-c570c700-9793-11e9-8587-b57aecc00ca4.PNG)
