@@ -1,10 +1,37 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+
+ * Cryptographic API.
+
+ *
+
+ * AES Cipher Algorithm.
+
+ *
+
+ * Based on Brian Gladman's code.
+
+ *
+
+ * Linux developers:
+
+ *  Alejandro Sobarzo <alemetal.1993@gmail.com>
+
+ *  Gaston Velasquez <gaston.velasquezjr99@gmail.com>
+
+ *  Tomas Castillo <tomas_castillo2.0@hotmail.com>
+
+ *
+
+ * This program is free software; you can redistribute it and/or modify
+
+ * it under the terms of the GNU General Public License as published by
+
+ * the Free Software Foundation; either version 2 of the License, or
+
+ * (at your option) any later version.
+
  */
 package gestionbd;
-
 import java.awt.HeadlessException;
 import java.sql.Statement;
 import java.sql.Connection;
