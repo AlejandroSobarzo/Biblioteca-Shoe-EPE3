@@ -37,3 +37,6 @@ IMAGENES PROGRAMA
 
 
 ![agregandousuario](https://user-images.githubusercontent.com/51242258/60148122-db838500-979d-11e9-8bcd-bc69e6ba7ae3.PNG)
+
+
+![agregandolibro](https://user-images.githubusercontent.com/51242258/60148150-f1914580-979d-11e9-8d24-7ef7d7b7c8d8.PNG)
