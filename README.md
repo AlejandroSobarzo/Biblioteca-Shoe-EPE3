@@ -40,3 +40,6 @@ IMAGENES PROGRAMA
 
 
 ![agregandolibro](https://user-images.githubusercontent.com/51242258/60148150-f1914580-979d-11e9-8d24-7ef7d7b7c8d8.PNG)
+
+
+![agregar](https://user-images.githubusercontent.com/51242258/60148184-0a99f680-979e-11e9-863c-38798063c1ac.PNG)
