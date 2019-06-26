@@ -31,3 +31,6 @@ IMAGENES PROGRAMA
 
 
 ![actualizardatos](https://user-images.githubusercontent.com/51242258/60148076-a8d98c80-979d-11e9-9deb-cf8371142c73.PNG)
+
+
+![agregandoprestamo](https://user-images.githubusercontent.com/51242258/60148104-bf7fe380-979d-11e9-9ce6-a552590701da.PNG)
