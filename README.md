@@ -28,3 +28,6 @@ IMAGENES PROGRAMA
 
 
 ![Mostrar(consultas 1 tabla)](https://user-images.githubusercontent.com/52224264/60145550-619ace00-9794-11e9-84b9-3744c2b9c37f.PNG)
+
+
+![actualizardatos](https://user-images.githubusercontent.com/51242258/60148076-a8d98c80-979d-11e9-9deb-cf8371142c73.PNG)
